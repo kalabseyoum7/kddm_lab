@@ -18,3 +18,9 @@ data/
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
+
+
+
+
+## olist E-commmerc: Data Exploration  with DUcK
+1. losd the CSV file intoDuckDB
